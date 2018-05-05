@@ -4,6 +4,9 @@ var app = express();
 var port = process.env.PORT || 8080;
 var fs = require('fs');
 var data = require('./data/data.json').data;
+var lat = 33;
+var lng = 122;
+var alert = true;
 
 app.set('view engine', 'ejs');
 app.use(express.static( "public"));
@@ -119,6 +122,17 @@ function getVideo(req, res, path) {
     fs.createReadStream(path).pipe(res)
   }
 }
+
+app.get('/send-overdose', function(req, res) {
+  lat = req.query.lat;
+  lng = req.query.lng;
+  alert = req.query.alert;
+  res.send(200);
+});
+
+app.get('/receive-overdose', function(req, res) {
+  res.send(lat + ',' + lng + ',' + alert);
+});
 
 app.listen(port);
 console.log("Listening to port", port);
