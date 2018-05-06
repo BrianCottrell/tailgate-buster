@@ -131,8 +131,8 @@ app.get('/send-overdose', function(req, res) {
 });
 
 app.get('/receive-overdose', function(req, res) {
-  alert = "false";
   res.send(lat + ',' + lng + ',' + alert);
+  alert = "false";
 });
 
 app.listen(port);
