@@ -9,7 +9,13 @@
 		"bgURL":"http://res.cloudinary.com/dhl3gjazr/image/upload/ar_48:27,b_auto,e_gradient_fade:symmetric_pad,x_0.2,c_pad,f_auto,g_east,q_auto/v1529881297/wayne-shorter/WSHORW12.jpg",
 		"videoURL":"http://pd.npr.org/npr-mp4/npr/ascvid/2014/10/20141028_ascvid_TwinDragon-n.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"2",
@@ -21,7 +27,13 @@
 		"bgURL":"https://i.imgur.com/0udeuHh.png",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"3",
@@ -33,7 +45,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=Qtl4mMmsgM1pHz5Dh4YJUVlBHLtsLynQKm3uLPL3n84=&f=6",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"4",
@@ -45,7 +63,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=TmqitUk4cNCw4n4KIvZ3aFvsEnVaZZM160VweIeN10U=&f=6",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"5",
@@ -57,7 +81,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=AOggaATb1zynPkMVD70akLO4NjtsRuV29dxGNx5WcQc=&f=6",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"6",
@@ -69,7 +99,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=TOJ6ApuMk-jjmeNQewWlsEc5OBM09VZpeSuUaF5sRfs=&f=6",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Romance"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"7",
@@ -81,7 +117,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=zXKfbjeLojc4hIDOnCcZqtfRVpknRO4JU9WpPhyVhms=&f=6",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"8",
@@ -93,7 +135,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=BsEjVzw_b2gHpfQeddh7DeXQ8jMl1s_gctYlJ-pdfjs=&f=4",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"9",
@@ -105,7 +153,13 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=7c8CHHUnN4I6Aym85ywRVikotVJiWg-NOzXL1I-XE3M=&f=4",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"10",
@@ -117,7 +171,13 @@
 		"bgURL":"http://www.sympatico.ca/image/policy:1.1800440:1467314728/Marie-Chantal-Toupin.jpg?w=1000&$p$w=b364651",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"11",
@@ -129,7 +189,13 @@
 		"bgURL":"http://storynory.com/wp-content/uploads/2010/12/weneslas1.jpg",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	},
 	{
 		"id":"12",
@@ -141,6 +207,12 @@
 		"bgURL":"http://rovimusic.rovicorp.com/image.jpg?c=vuTICXW7gnmdSW1y85nuiUc5OBM09VZpeSuUaF5sRfs=&f=5",
 		"videoURL":"https://res.cloudinary.com/capitol-music-group-secure/video/authenticated/s---ZXzsX9c--/c_scale,h_720/v1527959956/o_a.mp4",
 		"categories":["Christmas"],
-		"channel_id":"13454"
+		"channel_id":"13454",
+		"recommendations": [
+			"1",
+			"2",
+			"7",
+			"8"
+		]
 	}
 ]
