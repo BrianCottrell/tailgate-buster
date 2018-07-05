@@ -301,9 +301,9 @@
     },
     {
       "id": "fit_tunes_01",
-      "title": "Africa",
+      "title": "Wrecking Ball",
       "album": "Fit Tunes",
-      "artist": "Toto",
+      "artist": "Miley Cyrus",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530771915/fit-tunes/Miley_Cyrus_-_Wrecking_Ball.mp3",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVuEQvKChWWSmeZrTvLZJG8dDBcbPmCPlTEwjeghmJSPw8Hch_A",
@@ -454,6 +454,32 @@
       "totalTrackCount": 12,
       "duration": 65,
       "site": "https://vignette.wikia.nocookie.net/logopedia/images/9/99/Pizza_Hut.svg/revision/latest/scale-to-width-down/200?cb=20170909043942"
+    },
+    {
+      "id": "imagine_dragons_01",
+      "title": "Whatever it Takes",
+      "album": "Evolve",
+      "artist": "Imagine Dragons",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530732376/fit-tunes/Imagine_Dragons_-_Whatever_It_Takes.mp3",
+      "image": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg"
+    },
+    {
+      "id": "of_monsters_and_men_01",
+      "title": "Little Talks",
+      "album": "My Head Is an Animal",
+      "artist": "Of Monsters and Men",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530730311/fit-tunes/Of_Monsters_And_Men_-_Little_Talks_Official_Video.mp3",
+      "image": "http://artist1.cdn107.com/772/7721415233415bff184c6b8c0ff4ddf3_lg.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "http://artist1.cdn107.com/772/7721415233415bff184c6b8c0ff4ddf3_lg.jpg"
     }
   ]
 }
