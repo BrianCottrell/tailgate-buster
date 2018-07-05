@@ -480,6 +480,58 @@
       "totalTrackCount": 1,
       "duration": 65,
       "site": "http://artist1.cdn107.com/772/7721415233415bff184c6b8c0ff4ddf3_lg.jpg"
+    },
+    {
+      "id": "journey_01",
+      "title": "Any Way You Want It",
+      "album": "Caddyshack",
+      "artist": "Journey",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530735158/fit-tunes/Anyway_You_Want_It-_Journey.mp3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Journey_publicity_photo_2013.jpg/266px-Journey_publicity_photo_2013.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Journey_publicity_photo_2013.jpg/266px-Journey_publicity_photo_2013.jpg"
+    },
+    {
+      "id": "toto_01",
+      "title": "Africa",
+      "album": "Toto IV",
+      "artist": "Toto",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530728488/fit-tunes/Toto_-_Africa_Video.mp3",
+      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+    },
+    {
+      "id": "miley_cyrus_01",
+      "title": "Wrecking Ball",
+      "album": "Bangerz",
+      "artist": "Miley Cyrus",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530771915/fit-tunes/Miley_Cyrus_-_Wrecking_Ball.mp3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVuEQvKChWWSmeZrTvLZJG8dDBcbPmCPlTEwjeghmJSPw8Hch_A",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+    },
+    {
+      "id": "blink_182_01",
+      "title": "I Miss You",
+      "album": "Blink 182",
+      "artist": "Blink 182",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530734876/fit-tunes/blink-182_-_I_Miss_You.mp3",
+      "image": "https://consequenceofsound.files.wordpress.com/2016/06/blink-182-4fd10ed545655.jpg?quality=80&w=807",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 65,
+      "site": "https://consequenceofsound.files.wordpress.com/2016/06/blink-182-4fd10ed545655.jpg?quality=80&w=807"
     }
   ]
 }
