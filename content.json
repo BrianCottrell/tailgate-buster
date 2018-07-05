@@ -287,13 +287,26 @@
       "site": "http://freemusicarchive.org/music/Kai_Engel/Irsens_Tale/"
     },
     {
-      "id": "fit_tunes_01",
+      "id": "fit_tunes_00",
       "title": "Africa",
       "album": "Fit Tunes",
       "artist": "Toto",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530728488/fit-tunes/Toto_-_Africa_Video.mp3",
       "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "trackNumber": 0,
+      "totalTrackCount": 12,
+      "duration": 65,
+      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+    },
+    {
+      "id": "fit_tunes_01",
+      "title": "Africa",
+      "album": "Fit Tunes",
+      "artist": "Toto",
+      "genre": "Song",
+      "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530771915/fit-tunes/Miley_Cyrus_-_Wrecking_Ball.mp3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVuEQvKChWWSmeZrTvLZJG8dDBcbPmCPlTEwjeghmJSPw8Hch_A",
       "trackNumber": 1,
       "totalTrackCount": 12,
       "duration": 65,
@@ -306,11 +319,11 @@
       "artist": "Blink 182",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530734876/fit-tunes/blink-182_-_I_Miss_You.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://consequenceofsound.files.wordpress.com/2016/06/blink-182-4fd10ed545655.jpg?quality=80&w=807",
       "trackNumber": 2,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://consequenceofsound.files.wordpress.com/2016/06/blink-182-4fd10ed545655.jpg?quality=80&w=807"
     },
     {
       "id": "fit_tunes_03",
@@ -319,11 +332,11 @@
       "artist": "Bonnie Tyler",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530734784/fit-tunes/Bonnie_Tyler_-_Total_Eclipse_of_the_Heart_Video.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/12/590x/secondary/bonnie-tyler-age-botox-good-morning-britain-pictures-1240030.jpg",
       "trackNumber": 3,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://cdn.images.express.co.uk/img/dynamic/12/590x/secondary/bonnie-tyler-age-botox-good-morning-britain-pictures-1240030.jpg"
     },
     {
       "id": "fit_tunes_04",
@@ -332,11 +345,11 @@
       "artist": "Imagine Dragons",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530727487/fit-tunes/Imagine_Dragons_-_Thunder_Audio.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg",
       "trackNumber": 4,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg"
     },
     {
       "id": "fit_tunes_05",
@@ -345,11 +358,11 @@
       "artist": "Journey",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530735158/fit-tunes/Anyway_You_Want_It-_Journey.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Journey_publicity_photo_2013.jpg/266px-Journey_publicity_photo_2013.jpg",
       "trackNumber": 5,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Journey_publicity_photo_2013.jpg/266px-Journey_publicity_photo_2013.jpg"
     },
     {
       "id": "fit_tunes_06",
@@ -358,11 +371,11 @@
       "artist": "Of Monsters and Men",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530730311/fit-tunes/Of_Monsters_And_Men_-_Little_Talks_Official_Video.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "http://artist1.cdn107.com/772/7721415233415bff184c6b8c0ff4ddf3_lg.jpg",
       "trackNumber": 6,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "http://artist1.cdn107.com/772/7721415233415bff184c6b8c0ff4ddf3_lg.jpg"
     },
     {
       "id": "fit_tunes_07",
@@ -371,11 +384,11 @@
       "artist": "Imagine Dragons",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530732376/fit-tunes/Imagine_Dragons_-_Whatever_It_Takes.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg",
       "trackNumber": 7,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://djbooth.net/.image/t_share/MTUzNDg5MTMyNDQyNDk0ODMz/imaginedragonsjpg.jpg"
     },
     {
       "id": "fit_tunes_08",
@@ -384,11 +397,11 @@
       "artist": "Europe",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530728291/fit-tunes/Europe_-_The_Final_Countdown_Official_Video.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "http://images5.fanpop.com/image/photos/29100000/Europe-europe-band-fan-club-29190118-500-416.jpg",
       "trackNumber": 8,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "http://images5.fanpop.com/image/photos/29100000/Europe-europe-band-fan-club-29190118-500-416.jpg"
     },
     {
       "id": "fit_tunes_09",
@@ -397,11 +410,11 @@
       "artist": "Survivor",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530730200/fit-tunes/Survivor_-_Eye_Of_The_Tiger.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/186002/huge_avatar",
       "trackNumber": 9,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "https://images.sk-static.com/images/media/profile_images/artists/186002/huge_avatar"
     },
     {
       "id": "fit_tunes_10",
@@ -410,11 +423,11 @@
       "artist": "Coca Cola",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530735260/fit-tunes/Coke_Summer_Sound_Radio_Ad.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "http://www.cocacola.be/content/dam/GO/CokeZone/Common/global/open-graph/Opening-graphic_disk.jpg",
       "trackNumber": 10,
       "totalTrackCount": 12,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "http://www.cocacola.be/content/dam/GO/CokeZone/Common/global/open-graph/Opening-graphic_disk.jpg"
     },
     {
       "id": "pizza_hut_11",
