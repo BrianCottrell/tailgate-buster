@@ -501,11 +501,11 @@
       "artist": "Toto",
       "genre": "Song",
       "source": "https://res.cloudinary.com/dhl3gjazr/video/upload/v1530728488/fit-tunes/Toto_-_Africa_Video.mp3",
-      "image": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png",
+      "image": "http://sme.bg/news-image/599d28aa83ba889766f8bf7d_720x500_inset.jpg",
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": 65,
-      "site": "https://res.cloudinary.com/dhl3gjazr/image/upload/v1530733090/fit-tunes/fit-tunes-logo.png"
+      "site": "http://sme.bg/news-image/599d28aa83ba889766f8bf7d_720x500_inset.jpg"
     },
     {
       "id": "miley_cyrus_01",
